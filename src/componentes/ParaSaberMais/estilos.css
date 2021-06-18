@@ -1,0 +1,37 @@
+
+.saber-mais {
+  padding: 20px;
+}
+
+.saber-mais .container-texto {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.saber-mais .container-texto p {
+  width: 450px;
+  max-width: 90%;
+  padding: 20px;
+}
+
+.texto-centro {
+  text-align: center;
+}
+.container-link {
+  display: flex;
+  justify-content: center;
+  
+}
+.link-externo {
+  text-align: center;
+}
+.link-externo a {
+  display: block;
+  padding: 16px;
+  margin-top: 15px;
+  border-radius: 45px;
+  border: 3px solid #2c3e50;
+  width: 250px;
+  max-width: 90%;
+}
